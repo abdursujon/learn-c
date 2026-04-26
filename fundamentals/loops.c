@@ -9,13 +9,12 @@ int main() {
     printf("Number: %d\n", n[i]);
   }
 
-  printf("\n"); 
-   
-  // 2. While loop 
-  int j = 0; 
-  while(j < len){
-   printf("Number: %d\n", n[j]); 
-   j++; 
+  printf("\n");
+
+  // 2. While loop
+  int j = 0;
+  while (j < len) {
+    printf("Number: %d\n", n[j]);
+    j++;
   }
-  
 }
